@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ChenHaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+👋 Welcome to my GitHub profile!
+
+👨‍💻 I'm @Chen, a passionate individual in the realm of software engineering and programming.
+
+📚 Currently, I'm on the cusp of completing my second year pursuing a B.Sc. in Computer Sciences at The College of Management Academic Studies.
+
+💼 I am eagerly seeking opportunities as a Software Engineer to contribute my skills and dedication to real-world projects.
+
+📬 Feel free to reach out to me at chenby5941@gmail.com. I'm always open to engaging in exciting conversations and collaborations.
+
+Looking forward to connecting with fellow developers, enthusiasts, and innovators! 🚀
 
 # 📊 GitHub Stats:
 | <a href="https://github.com/ChenHaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChenHaz&show_icons=true&hide_border=false&theme=merko" alt="Dor's github stats" /></a> | <a href="https://github.com/ChenHaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenHaz&layout=compact&theme=merko&hide_border=true&hide=jupyter%20notebook" /></a> |
