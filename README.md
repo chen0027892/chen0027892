@@ -11,7 +11,7 @@
 Looking forward to connecting with fellow developers, enthusiasts, and innovators! 🚀
 
 # 📊 GitHub Stats:
-| <a href="https://github.com/ChenB-Y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChenHaz&show_icons=true&hide_border=false&theme=merko" alt="Dor's github stats" /></a> | <a href="https://github.com/ChenB-Y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenHaz&layout=compact&theme=merko&hide_border=true&hide=jupyter%20notebook" /></a> |
+| <a href="https://github.com/ChenB-Y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenBY&show_icons=true&hide_border=false&theme=merko" alt="Chen's github stats" /></a> | <a href="https://github.com/ChenB-Y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenBY&layout=compact&theme=merko&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
 <!---
